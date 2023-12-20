@@ -1,13 +1,15 @@
-
-
 ## Estudiamos sql en reflex.
 
-la pila es 
+La pila es 
 
-    py(reflex)
-    sqlmoldel
-    mysqlAlchemy, [pydantic](https://docs.pydantic.dev/latest/)
-    SQLite, MySQl ..
+|        .         |                       .                       |
+|:----------------:|:---------------------------------------------:|
+|      reflex      |                                               |
+|    sqlmoldel     |                                               |
+|   mysqlAlchemy   | [pydantic](https://docs.pydantic.dev/latest/) |
+|      python      |                                               |
+| SQLite, MySQl .. |                                               |
+
 
 
 
